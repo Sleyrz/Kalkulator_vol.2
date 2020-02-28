@@ -1,0 +1,30 @@
+body {
+  background-color: #1e1e24;
+}
+.container {
+  background-color: #444140;
+  height: 500px;
+  width: 400px;
+  display: block;
+  padding-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ekran {
+  position: static;
+  background-color: antiquewhite;
+  height: 80px;
+  width: 350px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.przyciski {
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+button {
+  height: 60px;
+  width: 75px;
+  margin: 6px;
+}
